@@ -1,0 +1,36 @@
+.cadastrar{
+    color: white;
+    padding-left: 40%;
+    
+}
+
+
+.entrar{
+    color: white;
+    padding-left: 43%;
+    padding-top: 50%;
+}
+h1{
+    padding-left: 30%;
+}
+h5{
+padding-left: 20%;
+padding-right: 15%;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: slategray;
+}
+h2{
+    padding-left:20% ;
+    color: rgb(204, 215, 142);
+}
+.jardim{
+    width: 80%;
+    height: 100%;
+    padding-left: 15%;
+}
+

@@ -1,0 +1,19 @@
+.voltar{
+    color: white;
+    padding-left: 43%;
+}
+h1{
+    padding-left:23%;
+}
+h4{
+    padding-left: 20%;
+    padding-right: 20%;
+    color:greenyellow;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: slategray;
+}
